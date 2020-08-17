@@ -1,3 +1,6 @@
 # Docker React Sample App
-see `app/Makefile` for usage
- 
+See the `app/Makefile` for usage
+
+`make build` to build image
+
+`make run` to start application
